@@ -46,6 +46,8 @@ pyautogui.write("minhasenha")
 # Clicar botão logar
 pyautogui.click(x=689, y=543)
 
+time.sleep(3)
+
 #Passo 03 - Importar a base de dados
 
 #Passo 04 - Cadastrar um produto
